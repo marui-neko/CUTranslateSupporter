@@ -24,7 +24,7 @@ TL;DR: I made this for myself.
 
 ### 2. 🛠️ Setting up CUTranslateSupporter
 
-1. Download `CUTranslateSupporter.zip` from [Here](https://github.com/marui-neko/CUTranslateSupporter/blob/main/CUTranslateSupporter.zip).
+1. Download `CUTranslateSupporter.zip` from [Here]([https://github.com/marui-neko/CUTranslateSupporter/blob/main/CUTranslateSupporter.zip](https://github.com/marui-neko/CUTranslateSupporter/raw/refs/heads/main/CUTranslateSupporter.zip)).
 2. Extract the contents (the `BepInEx` folder) into the same folder as the game's executable (`CasualtiesUnknown.exe`).
 
 ***

@@ -1,0 +1,2 @@
+# CUTranslateSupporter
+Personal Translate Supporter

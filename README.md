@@ -1,7 +1,7 @@
 
 # 📝 CUTranslateSupporter
 
-CUTranslateSupporter is a support mod designed for volunteer game translators and players who want to apply translation data to their game.
+CUTranslateSupporter is a BepInEx plugin designed for volunteer game translators and players who want to apply translation data to their game.
 In addition to downloading translation files, it provides features to check translation progress, identify missing/extra keys, confirm text differences from game updates, and format the structure of your JSON files.
 
 This might not be necessary for translators who already have their own established workflows. However, for those who find checking GitHub diffs or using external tools a bit too difficult (honestly, it was way too hard for me...), I created this tool to let you easily translate and adjust file structures entirely within the game.

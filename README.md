@@ -119,7 +119,7 @@ github_url=https://raw.githubusercontent.com/marui-neko/scavgame-locale/japanese
 ```
 **[Workspace Repository URLs]**
 Specify the raw links to the repository where you are currently working, or where the latest unmerged translation data is hosted. You can register multiple URLs separated by commas (`,`) or spaces.
-The URLs set here are used by the "Download Latest Translation from Workspace" button in the UI, or as the quick download target when `devmode=false`. The mod will automatically find and download the URL that matches your currently selected language file name.
+The URLs set here are used by the "Download Latest Translation from Workspace" button in the UI. The mod will automatically find and download the URL that matches your currently selected language file name.
 
 ```ini
 github_api_url=https://api.github.com/repos/Orsoniks/scavgame-locale/contents

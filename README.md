@@ -139,7 +139,7 @@ compare_ignore_text=AAAAAAAA!|AAAAAAAAAAAAAA!|Si tir ti vucot svaklar si mi.|Kov
 ```
 **[Texts to Ignore in Compare]**
 Instead of keys, you can specify **"exact text strings"** to exclude from the untranslated count in the "Compare" feature. Separate multiple texts with a pipe `|`.
-This is extremely useful for specifying lines that are just "screams" mixed into character dialogues/notes arrays, or "alien languages" that should remain as they are.
+This is extremely useful for specifying lines that are just "screams" mixed into character dialogues/notes arrays, or int 0 languages that should remain as they are.
 
 ***
 

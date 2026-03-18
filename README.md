@@ -32,7 +32,6 @@ TL;DR: I made this for myself.
 ## 🎮 How to Open the Menu
 
 **Press and hold** the icon (plushie/character) at the edge of the screen in-game to open the menu.
-(*Note: If you have set `devmode=false` in the settings, holding the button will trigger the automatic download instead.*)
 
 ***
 
